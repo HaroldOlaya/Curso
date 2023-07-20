@@ -1,3 +1,7 @@
 soy archivo 2
+<<<<<<< HEAD
 voy a subir este archivo 
 se repáro esto 
+=======
+voy a subir este archivo 
+>>>>>>> refs/remotes/origin/main
